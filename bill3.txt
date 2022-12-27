@@ -1,0 +1,5 @@
+Comanda: 3
+Data Comenzii: Wed May 13 22:45:41 EEST 2020
+Numarul mesei: 6
+Totalul comenzii: 15.0
+---------------------------------
